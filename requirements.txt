@@ -1,0 +1,7 @@
+flask
+gunicorn
+requests
+melotts @ git+https://github.com/myshell-ai/MeloTTS.git@abf885acf7c8322af07e6584099748cba09e3909
+transformers
+torch
+scipy
